@@ -3,6 +3,18 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+main{
+	background-color: white
+}
+
+#nuestros-trabajos{
+	background-color: white
+}
+
+#nuestros-proyectos{
+	background-color: white
+}
+
 #encabezado{
     background-image: url(https://i.imgur.com/TjceBe6.jpg);
 }
@@ -20,5 +32,14 @@ body{
 
 }
 
-.texto-principal {
+.texto-principal{
+}
+
+.form{
+	background-image: url(https://i.imgur.com/8WYIKTr.jpg);
+}
+
+footer{
+	background-color: #182430;
+	color: white;
 }
